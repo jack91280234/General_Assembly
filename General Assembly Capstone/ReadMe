@@ -1,5 +1,7 @@
-<h2>Welcome to my GA Capstone Github </h2>
+Welcome to my GA Capstone Github
 
-<p> You can find my EDA work in the <strong>Capstone_EDA.ipynb</strong> file</p>
+You can find my EDA work in the <strong>Capstone_EDA.ipynb</strong> file
 
-<p> You can find my models in the <strong>Capstone_Models.ipynb</strong> file</p>
+You can find my models in the <strong>Capstone_Models.ipynb</strong> file
+
+All other files are CSV files of my data that were converted from XPT files
